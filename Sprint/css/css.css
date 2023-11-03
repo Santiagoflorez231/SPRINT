@@ -1,0 +1,11 @@
+.bg-form {
+    background-color: rgba(22, 21, 21, 0.541);
+}
+
+.section-p{
+    background-image: url('img/tb-vuelo.jpg');background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 10%;
+    position: relative;
+    
+}
